@@ -131,6 +131,8 @@ header .ham-burger span:nth-child(2){
 	transform-origin: left bottom;
 }
 
+
+
 header .ham-burger.active span:nth-child(1){
 	-webkit-transform: rotate(45deg) translateY(-6px);
 	transform: rotate(45deg) translateY(-6px);
